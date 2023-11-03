@@ -60,7 +60,8 @@ print(f"\t\t\t\t\tGame over")
 if winning_p > winning_c:
     print_center("Congratulations! You won the game.")
 elif winning_p < winning_c:
-    print_center("Computer wins the game. Better luck next time.")
+
+    print_center("sorry bro Computer wins the game. Better luck next time.")
 else:
     print_center("It's a tie! The game ends with a draw.")
 print()
