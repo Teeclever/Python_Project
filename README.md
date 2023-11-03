@@ -20,6 +20,6 @@ please enter your name: .......
 
 # TASK
 - [001](.\Rock_paper_scissors) : Rock-paper-scissors
+- [002](.\hangman_game) : hangman_game
 -
-
 
