@@ -1,4 +1,4 @@
-<img src="./python.jpeg" width="550px">
+<img src="python.jpeg" width="550px">
 
 ---
 #  PYTHON IMPLEMENTATION
