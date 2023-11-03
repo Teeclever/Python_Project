@@ -1,4 +1,4 @@
-![rock](./rock.jpeg)
+![rock](https://pin.it/1nSd0ZK)
 ---
 # RPS - Rock Paper Scissors
 
