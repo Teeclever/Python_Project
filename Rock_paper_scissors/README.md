@@ -1,7 +1,10 @@
-![rock](https://i.pinimg.com/564x/70/65/eb/7065eb485b66deb6154d0ed9478964f5.jpg)
+<img src="https://i.pinimg.com/564x/70/65/eb/7065eb485b66deb6154d0ed9478964f5.jpg" align="center">
+
 ---
+
 # RPS - Rock Paper Scissors
 
+---
 
 > This is a simple implementation of the classic Rock, Paper, Scissors game using Python.
 
