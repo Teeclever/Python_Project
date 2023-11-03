@@ -1,4 +1,4 @@
-<img src="./python.png" width="550px">
+<img src="https://i.pinimg.com/564x/c9/e1/86/c9e1865fc12448afb7f25a355dd7169b.jpg" width="550px">
 
 ---
 #  PYTHON IMPLEMENTATION
