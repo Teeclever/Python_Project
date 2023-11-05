@@ -2,7 +2,7 @@ import random
 from list_check_generator import check, guesslist  
 import hangman_diagram
 
-
+# welcome
 print()
 print("\t\t\t\t\t\t      Welcome, let's play Hangman game!!")
 print("---------------------------------------------------------------\n")
